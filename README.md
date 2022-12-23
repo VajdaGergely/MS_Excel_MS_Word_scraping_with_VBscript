@@ -16,7 +16,7 @@ This is the function library with classes and functions to call from another vbs
 <h3>office_tool</h3>
 A windows command line tool with built in menu to call all the functions in the library on an already opened Excel or Word document.
 <br/><br/>
-<b>Usage of office tool</b><br/>
+<b>Usage of office tool:</b><br/>
 <ul>
   <li>Run it with office_tool.bat from windows command line or powershell.</li>
 <li>Choose between 'Excel' and 'Word'.</li>
