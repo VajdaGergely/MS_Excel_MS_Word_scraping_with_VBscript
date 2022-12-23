@@ -1,0 +1,1 @@
+cls && Cscript //Nologo office_tool.vbs
