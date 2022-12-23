@@ -17,23 +17,25 @@ This is the function library with classes and functions to call from another vbs
 A windows command line tool with built in menu to call all the functions in the library on an already opened Excel or Word document.
 <br/><br/>
 <b>Usage of office tool</b><br/>
-Run it with office_tool.bat from windows command line or powershell.
-Choose between 'Excel' and 'Word'.
-Choose the document from the currently open documents to attach to.
-Choose the function to call through the menu.
+<ul>
+  <li>Run it with office_tool.bat from windows command line or powershell.</li>
+<li>Choose between 'Excel' and 'Word'.</li>
+<li>Choose the document from the currently open documents to attach to.</li>
+<li>Choose the function to call through the menu.</li>
+</ul>
 
 
 
 
 
-Disclaimer
+<h2>Disclaimer</h2>
 The purpose of this project was to write some wrapper code around the MS Word and MS Excel parser functions that Microsoft has been implemented in VBscript - to create an easy to use and convenient interface to handle Word and Excel documents.
-
+<br/><br/>
 I've interrupted the project because of the lack of time. I had to focus on other things.
-
+<br/><br/>
 Lot's of useful functions has not been implemented. And the proper error handling is missing to.
-
+<br/><br/>
 But anyway maybe my code will be useful for someone.
-
+<br/><br/>
 Or someone want to upgrade, improve or extend it :)
-
+<br/><br/>
